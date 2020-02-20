@@ -1,2 +1,3 @@
 # practice_hashcode2020
-Hash Code 2020
+our solution for Hash Code 2020
+problem link  : [here] (https://hashcodejudge.withgoogle.com/download/blob/AMIfv955DlnijeYNeiQsNO_6ZItxzi_IajdfxyZRbSP9pWPfq9nymDxEltzHMIl9Xhb4ztDUCH1-2qZywUoAjPHKYrvDl1GYdd7lQT45VE8CWnyEIHYSaHZlA4vgFBPdzQqd0qCBu_buBCDTnR04Q5y_EOFIa3k-4FJ2dbR_GLklYC_UiI-br-L3DA3Vkdr1oDI7waNcJcLsnuZI0PNbbN7xYHHtPXqyFQha2RP2IV6cyrc8xRmj4VZrYaz-7eO_14lkahH5ftZRddoxHEGfqgJZKHgL7mSe_SaveNIf7zGhbMeE6pZeHYc)
