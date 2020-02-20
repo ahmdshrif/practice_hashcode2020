@@ -1,3 +1,9 @@
+"""
+_author_ = "Ahmed Ashraf and Mohamed Aboushady"
+_credits_ = ["Ahmed Ashraf", Mohamed Aboushady"]
+_license_ = "GPL"
+_version_ = "1.0.1"
+""""
 ##########################################################################################################################
 file_name = 'e_also_big'
 input = open(file_name + '.in').readlines()
