@@ -1,6 +1,6 @@
 """
-_author_ = "Ahmed Ashraf and Mohamed Aboushady"
-_credits_ = ["Ahmed Ashraf", Mohamed Aboushady"]
+_author_ = "AHMED SHERIF and Mohamed Aboushady"
+_credits_ = ["AHMED SHERIF", Mohamed Aboushady"]
 _license_ = "GPL"
 _version_ = "1.0.1"
 """"
