@@ -34,7 +34,6 @@ def get_maximum(_pizza, _sum_slices=0, _start_point=-1, _solution_ids=[]):
 
 
 ############################################################################################################################
-#number python = numpy
 best_sum_slices, best_solution = get_maximum(pizza)
 
 while len(stop_points) > 0:
